@@ -2,19 +2,20 @@
 defineProps({
   msg: {
     type: String,
-    required: true
-  }
-})
+    required: true,
+  },
+});
 </script>
 
 <template>
   <div class="greetings">
-    <h1 class="green">{{ msg }}</h1>
+    <h1 class="green"></h1>
     <h3>
-      You’ve successfully created a project with
+      I’ve successfully created a project with
       <a target="_blank" href="https://vitejs.dev/">Vite</a> +
       <a target="_blank" href="https://vuejs.org/">Vue 3</a>.
     </h3>
+    <div>I'm going to write different codes for vuejs ecosystem</div>
   </div>
 </template>
 
