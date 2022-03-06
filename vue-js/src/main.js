@@ -1,6 +1,6 @@
 import { createApp } from "vue";
 import { createPinia } from "pinia";
-import { Layout, Menu, Button, message } from "ant-design-vue";
+import { Layout, Menu, Button, message, Input } from "ant-design-vue";
 
 import App from "./App.vue";
 import router from "./router";
@@ -11,7 +11,7 @@ const app = createApp(App);
 
 app.use(createPinia());
 app.use(router);
-app.use(Layout).use(Button).use(Menu);
+app.use(Layout).use(Button).use(Menu).use(Input);
 
 app.config.globalProperties.$message = message;
 

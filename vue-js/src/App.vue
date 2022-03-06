@@ -11,12 +11,10 @@
             </router-link>
           </a-menu-item>
           <a-menu-item key="2">
-            <video-camera-outlined />
-            <span>nav 2</span>
-          </a-menu-item>
-          <a-menu-item key="3">
-            <upload-outlined />
-            <span>nav 3</span>
+            <router-link to="/composition">
+              <user-outlined />
+              <span>Composition API</span>
+            </router-link>
           </a-menu-item>
         </a-menu>
       </a-layout-sider>
