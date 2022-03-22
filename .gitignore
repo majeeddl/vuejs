@@ -104,3 +104,6 @@ dist
 .tern-port
 vue-js/yarn.lock
 vue-js/vue-ts/yarn.lock
+vue-js/.yarn/*
+vue-ts/.yarn/*
+vue-ts/yarn.lock
