@@ -1,0 +1,7 @@
+{
+    "vetur.completion.scaffoldSnippetSources": {
+        "workspace": "💼", // Suffix workspace snippets with `💼`
+        "user": "(️User)", // Suffix workspace snippets with `(User)`
+
+    }
+}

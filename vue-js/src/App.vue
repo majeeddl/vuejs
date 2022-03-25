@@ -16,6 +16,12 @@
               <span>Composition API</span>
             </router-link>
           </a-menu-item>
+          <a-menu-item key="3">
+            <router-link to="/piana">
+              <user-outlined />
+              <span>Piana Store</span>
+            </router-link>
+          </a-menu-item>
         </a-menu>
       </a-layout-sider>
       <a-layout>
