@@ -17,9 +17,9 @@
             </router-link>
           </a-menu-item>
           <a-menu-item key="3">
-            <router-link to="/piana">
+            <router-link to="/pinia">
               <user-outlined />
-              <span>Piana Store</span>
+              <span>Pinia Store</span>
             </router-link>
           </a-menu-item>
         </a-menu>
