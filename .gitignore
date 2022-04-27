@@ -107,3 +107,4 @@ vue-js/vue-ts/yarn.lock
 vue-js/.yarn/*
 vue-ts/.yarn/*
 vue-ts/yarn.lock
+vue-js/package-lock.json
