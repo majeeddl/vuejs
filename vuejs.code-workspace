@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "./vue-js"
+		},
+		{
+			"path": "./vue-ts"
+		}
+	],
+	"settings": {}
+}
